@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shimooo3&show_icons=true&locale=en&layout=compact"/></p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
