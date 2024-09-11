@@ -1,3 +1,5 @@
+# おしゃれにするのも簡単じゃないorz（2024/09/11）
+
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shimooo3&show_icons=true&locale=en&layout=compact"/></p>
 
 ### Blogs posts
