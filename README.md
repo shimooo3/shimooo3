@@ -10,6 +10,7 @@
 - [【n番煎じ】Marpを使ってスライド作成したけど画像の配置が難しかった話【css】](https://zenn.dev/xiakou/articles/635bb2873f55b3)
 <!-- BLOG-POST-LIST:END -->
 
+### Public repo
 <p align="left" >
 	<picture>
   		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shimooo3/shimooo3/main/profile-3d-contrib/profile-night-rainbow.svg">
