@@ -3,10 +3,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [【LaTex】chapter見出しを二重線で装飾しよう!!](https://zenn.dev/xiakou/articles/latex-doubleline)
 - [【n番煎じ】PyGithubでコミットメッセージを取得する](https://zenn.dev/xiakou/articles/get_commit_msg)
 - [【SIGNATE】データ分析やってみよう](https://zenn.dev/xiakou/articles/2024s_lab_signate)
 - [【OKS】非人体Keypoint検出評価指標OKSの難しいところ](https://zenn.dev/xiakou/articles/keypoint-oks)
-- [【n番煎じ】Marpを使ってスライド作成したけど画像の配置が難しかった話【css】](https://zenn.dev/xiakou/articles/635bb2873f55b3)
 <!-- BLOG-POST-LIST:END -->
 
 ### Public repo
