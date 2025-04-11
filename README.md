@@ -3,10 +3,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Stable Diffusionをローカルデータで訓練する際の備忘録](https://zenn.dev/xiakou/articles/train_sd_diffusers)
 - [【LaTex】chapter見出しを二重線で装飾しよう!!](https://zenn.dev/xiakou/articles/latex-doubleline)
 - [【n番煎じ】PyGithubでコミットメッセージを取得する](https://zenn.dev/xiakou/articles/get_commit_msg)
 - [【SIGNATE】データ分析やってみよう](https://zenn.dev/xiakou/articles/2024s_lab_signate)
-- [【OKS】非人体Keypoint検出評価指標OKSの難しいところ](https://zenn.dev/xiakou/articles/keypoint-oks)
 <!-- BLOG-POST-LIST:END -->
 
 ### Public repo
